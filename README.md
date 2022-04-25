@@ -40,13 +40,18 @@
   
   
 <p>&nbsp;</p>
+
 ## 🌗 Weekly Development Breakdown
+-  [CPP Youtube Playlist](https://youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ)
+-  [Java Youtube Playlist](https://youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop)
+#
 ## ⛳️ Project Release
 
+#
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=srajan7&show_icons=true&locale=en" alt="srajan7" /></p> <br>
  <p align="left"> Note: Available ranks are S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%), and B+ (everyone). The values are calculated by using <a href = "https://github.com/Srajan7/Srajan7/blob/main/Cumulative_distribution_function.pdf">pdf</a> using commits, contributions, issues, stars, pull requests, followers, and owned repositories.</p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=srajan7&" alt="srajan7" /></p>  <br>
-<a href="https://github.com/Srajan7" alt="https://github.com/Srajan7"><img align="right" src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=Srajan&color=000000"></a>
-<a href="https://github.com/Srajan7/Srajan7/LICENSE" alt="https://github.com/Srajan7/Srajan7/LICENSE"><img align="right" src="https://img.shields.io/static/v1?style=for-the-badge&label=LICENSE&message=MIT&color=000000"></a>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=srajan7&" alt="srajan7" /></p>
+<a href="https://github.com/Srajan7" alt="https://github.com/Srajan7"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=Srajan&color=000000"></a>
+<a href="https://github.com/Srajan7/Srajan7/LICENSE" alt="https://github.com/Srajan7/Srajan7/LICENSE"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&label=LICENSE&message=MIT&color=000000"></a>
 
