@@ -24,13 +24,14 @@
 <p align="left">
 <a href="https://dev.to/srajan" target="blank"><img align="center" src="https://github.com/Srajan7/Srajan7/blob/main/Icons/devto.svg" alt="srajan" height="30" width="40" /></a>
 <a href="https://twitter.com/srajanray" target="blank"><img align="center" src="https://github.com/Srajan7/Srajan7/blob/main/Icons/twitter.svg" alt="srajanray" height="30" width="40" /></a>
-<a href="https://www.reddit.com/user/srajanrai/" target="blank"><img align="center" src="https://github.com/Srajan7/Srajan7/blob/main/Icons/Reddit.svg" alt="srajan" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/srajanrai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srajanrai" height="30" width="40" /></a>
 <a href="https://instagram.com/xsrajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xsrajan" height="30" width="40" /></a>
 <a href="https://medium.com/@raisrajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@raisrajan" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@srajanrai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@srajanrai" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/<srajanrai>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<srajanrai>" height="30" width="40" /></a>
 <a href="https://discord.gg/G5NFJtx26M" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="G5NFJtx26M" height="30" width="40" /></a>
+ <a href="https://www.reddit.com/user/srajanrai/" target="blank"><img align="center" src="https://img.icons8.com/doodle/48/000000/reddit--v4.png" alt="srajan" height="30" width="40" /></a>
 </p>  
   
   
