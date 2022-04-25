@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Srajan Rai</h1>
 <h3 align="center">Developer from Bangalore</h3>
 
+<img src="https://count.getloli.com/get/@Srajan7" alt=":Srajan" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srajan7&label=Visitors&color=0e75b6&style=flat" alt="srajan7" /> </p>
 
 <p align="left"> <a href="https://twitter.com/srajanray" target="blank"><img src="https://img.shields.io/twitter/follow/srajanray?logo=twitter&style=for-the-badge" alt="srajan" /></a> </p>
@@ -55,3 +57,6 @@
 <a href="https://github.com/Srajan7" alt="https://github.com/Srajan7"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=Srajan&color=000000"></a>
 <a href="https://github.com/Srajan7/Srajan7/LICENSE" alt="https://github.com/Srajan7/Srajan7/LICENSE"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&label=LICENSE&message=MIT&color=000000"></a>
 
+![build](https://github.com/mopig/mopig/workflows/build/badge.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/mopig/mopig)
+![pv](https://pageview.vercel.app/?github_user=mopig)
