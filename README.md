@@ -57,6 +57,6 @@
 <a href="https://github.com/Srajan7" alt="https://github.com/Srajan7"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=Srajan&color=000000"></a>
 <a href="https://github.com/Srajan7/Srajan7/LICENSE" alt="https://github.com/Srajan7/Srajan7/LICENSE"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&label=LICENSE&message=MIT&color=000000"></a>
 
-![build](https://github.com/mopig/mopig/workflows/build/badge.svg)
-![GitHub last commit](https://img.shields.io/github/last-commit/mopig/mopig)
-![pv](https://pageview.vercel.app/?github_user=mopig)
+![build](https://github.com/Srajan7/Srajan7/blob/main/pass/badge.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/Srajan7/Srajan7)
+![pv](https://pageview.vercel.app/?github_user=Srajan7)
