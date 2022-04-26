@@ -1,12 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=7FF7CC&center=true&width=1000&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Srajan+Rai;Developer+from+Bengaluru)](https://git.io/typing-svg)
+<h3 align="center">
+  <img src="https://github.com/Srajan7/Srajan7/blob/main/name.svg" alt="Srajan Rai" />
+</h3>
 
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/Srajan7/Srajan7/name.svg" alt="Srajan Rai" />
-</h1>
-
-#
-[//]: # (<img src="https://count.getloli.com/get/@Srajan7" alt=":Srajan" />)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=7FF7CC&center=true&width=1000&height=100&lines=Hi+;I'm+Developer+from+Bengaluru)](https://git.io/typing-svg)
 
 [![Repos Badge](https://badges.pufler.dev/repos/Srajan7)](https://badges.pufler.dev)
 ![Last](https://img.shields.io/github/last-commit/Srajan7/Srajan7)
@@ -14,6 +10,8 @@
 <img src="https://komarev.com/ghpvc/?username=srajan7&label=Visitors&color=0e75b6&style=flat" alt="srajan7" /> <img src="https://wakatime.com/badge/github/Srajan7/Srajan7.svg" alt="WakaTime" />
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31umo3aggv6i3d3md3iiwobqhkr4&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=31umo3aggv6i3d3md3iiwobqhkr4&redirect=true)
+
+# About me
 
 - 🔭 I’m currently working on [App-Dev](https://github.com/Srajan7/App-Dev)
 
