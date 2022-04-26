@@ -1,5 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=7FF7CC&center=true&width=1000&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Srajan+Rai;Developer+from+Bengaluru)](https://git.io/typing-svg)
 
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Srajan7/Srajan7/master/name.svg" alt="Srajan Rai" />
+</h1>
+
 #
 [//]: # (<img src="https://count.getloli.com/get/@Srajan7" alt=":Srajan" />)
 
