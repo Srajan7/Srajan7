@@ -9,6 +9,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=srajan7&label=Visitors&color=0e75b6&style=flat" alt="srajan7" /> <img src="https://wakatime.com/badge/github/Srajan7/Srajan7.svg" alt="WakaTime" />
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31umo3aggv6i3d3md3iiwobqhkr4&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=31umo3aggv6i3d3md3iiwobqhkr4&redirect=true)
 
 - 🔭 I’m currently working on [App-Dev](https://github.com/Srajan7/App-Dev)
 
