@@ -4,6 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=7FF7CC&center=true&width=1000&height=100&lines=Hi+;I'm+Developer+from+Bengaluru)](https://git.io/typing-svg)
 
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![Repos Badge](https://badges.pufler.dev/repos/Srajan7)](https://badges.pufler.dev)
 ![Last](https://img.shields.io/github/last-commit/Srajan7/Srajan7)
 
