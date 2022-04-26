@@ -1,14 +1,17 @@
- Currently in edit mode
+
 <h1 align="center">Hi 👋, I'm Srajan Rai</h1>
 <h3 align="center">Developer from Bangalore</h3>
 
 [//]: # (<img src="https://count.getloli.com/get/@Srajan7" alt=":Srajan" />)
 
 
-![Last commit](https://img.shields.io/github/last-commit/Srajan7/Srajan7)
+![Last](https://img.shields.io/github/last-commit/Srajan7/Srajan7)
 <img src="https://komarev.com/ghpvc/?username=srajan7&label=Visitors&color=0e75b6&style=flat" alt="srajan7" />
 
-<p align="left"> <a href="https://twitter.com/srajanray" target="blank"><img src="https://img.shields.io/twitter/follow/srajanray?logo=twitter&style=for-the-badge" alt="srajan" /></a> </p>
+[![Repos Badge](https://badges.pufler.dev/repos/Srajan7)](https://badges.pufler.dev)
+[![Updated Badge](https://badges.pufler.dev/updated/Srajan7/Srajan7)](https://badges.pufler.dev)
+
+[![Created Badge](https://badges.pufler.dev/created/Srajan7/Srajan7)](https://badges.pufler.dev)
 
 - 🔭 I’m currently working on [App-Dev](https://github.com/Srajan7/App-Dev)
 
@@ -52,13 +55,13 @@
 ## ⛳️ Project Release
 
 #
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=srajan7&show_icons=true&locale=en" alt="srajan7" /></p> <br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=srajan7&theme=dark&show_icons=true&locale=en" alt="srajan7" /></p> <br>
  <p align="left"> Note: Available ranks are S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%), and B+ (everyone). The values are calculated by using <a href = "https://github.com/Srajan7/Srajan7/blob/main/Cumulative_distribution_function.pdf">pdf</a> using commits, contributions, issues, stars, pull requests, followers, and owned repositories.</p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=srajan7&" alt="srajan7" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=srajan7&theme=dark" alt="srajan7" /></p>
 <a href="https://github.com/Srajan7" alt="https://github.com/Srajan7"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=Srajan&color=000000"></a>
 <a href="https://github.com/Srajan7/Srajan7/LICENSE" alt="https://github.com/Srajan7/Srajan7/LICENSE"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&label=LICENSE&message=MIT&color=000000"></a>
 
 
-#
-
+# Contributers
+[![Contributors Display](https://badges.pufler.dev/contributors/Srajan7/Srajan7?size=50&padding=5&bots=true)](https://badges.pufler.dev)
