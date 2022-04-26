@@ -1,7 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=7FF7CC&center=true&width=1000&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Srajan+Rai;Developer+from+Bengaluru)](https://git.io/typing-svg)
 
-<h1 align="center">Hi 👋, I'm Srajan Rai</h1>
-<h3 align="center">Developer from Bangalore</h3>
-
+#
 [//]: # (<img src="https://count.getloli.com/get/@Srajan7" alt=":Srajan" />)
 
 
@@ -64,3 +63,23 @@
 
 # Contributers
 [![Contributors Display](https://badges.pufler.dev/contributors/Srajan7/Srajan7?size=50&padding=5&bots=true)](https://badges.pufler.dev)
+
+#
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Srajan7&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+# About Rank
+
+Ranks are `SSS` `SS` `S` `AAA` `AA` `A` `B` `C` `UNKNOWN` `SECRET`.
+
+|  Rank  |  Description  |
+| ---- | ---- |
+|  SSS, SS, S  | You are at a hard to reach rank. You can brag.  |
+|  AAA, AA, A  | You will reach this rank if you do your best. Let's aim here first.  |
+|  B, C  | You are currently making good process. Let's aim a bit higher.  |
+| UNKNOWN | You have not taken action yet. Let's act first. |
+| SECRET | This rank is very rare. The trophy will not be displayed until certain conditions are met. |
+
+<div align="center">
+    <img height="200px" src="https://github-readme-stats-api-Srajan7.vercel.app/api/top-langs/?username=Srajan7&theme=gruvbox_light&layout=compact"/>
+</div>
