@@ -11,6 +11,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31umo3aggv6i3d3md3iiwobqhkr4&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=31umo3aggv6i3d3md3iiwobqhkr4&redirect=true)
 
+
 # About me
 
 - 🔭 I’m currently working on [App-Dev](https://github.com/Srajan7/App-Dev)
@@ -24,7 +25,6 @@
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1uNVB7uJMyOBAoBh22pPFZt64HjCzzV1u/view?usp=sharing)
 
 - ⚡ Fun fact MBTI -**INTJ**
-
 
 
 <h3 align="left">Socials:</h3>
