@@ -6,13 +6,10 @@
 
 
 [![Repos Badge](https://badges.pufler.dev/repos/Srajan7)](https://badges.pufler.dev)
-[![Updated Badge](https://badges.pufler.dev/updated/Srajan7/Srajan7)](https://badges.pufler.dev)
-
 ![Last](https://img.shields.io/github/last-commit/Srajan7/Srajan7)
-<img src="https://komarev.com/ghpvc/?username=srajan7&label=Visitors&color=0e75b6&style=flat" alt="srajan7" />
 
-[![Created Badge](https://badges.pufler.dev/created/Srajan7/Srajan7)](https://badges.pufler.dev)
-![Badge](https://wakatime.com/badge/github/Srajan7/Srajan7.svg)
+<img src="https://komarev.com/ghpvc/?username=srajan7&label=Visitors&color=0e75b6&style=flat" alt="srajan7" /> <img src="https://wakatime.com/badge/github/Srajan7/Srajan7.svg" alt="WakaTime" />
+
 
 - 🔭 I’m currently working on [App-Dev](https://github.com/Srajan7/App-Dev)
 
